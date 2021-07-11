@@ -30245,40 +30245,6 @@
     zh-Hant = 加載
     fa = در حال دانلود
 
-  [key_information_title]
-    en = Key information
-    ru = Ключевая информация
-    ar = معلومات رئيسية
-    cs = Klíčové informace
-    da = Central information
-    nl = Belangrijke informatie
-    fi = Avaintietoa
-    fr = Informations clés
-    de = Wichtige Informationen
-    hu = Kulcs információ
-    id = Informasi kunci
-    it = Informazioni importanti
-    ja = 重要情報
-    ko = 핵심 정보
-    nb = Nøkkelinformasjon
-    pl = Kluczowe informacje
-    pt = Informações principais
-    pt-BR = Informação importante
-    ro = Informații cheie
-    es = Información clave
-    es-MX = Información clave
-    sv = Nyckelinformation
-    th = ข้อมูลหลัก
-    tr = Anahtar bilgisi
-    uk = Ключова інформація
-    vi = Thông tin chìa khóa
-    el = Βασικές πληροφορίες
-    sk = Kľúčová informácia
-    sw = Habari muhimu
-    zh-Hans = 关键信息
-    zh-Hant = 關鍵信息
-    fa = اطلاعات کلیدی
-
   [download_map_title]
     en = Download the world map
     ru = Скачать карту мира
